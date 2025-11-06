@@ -1,0 +1,23 @@
+Campaign,Ad group,Keyword,Match type,Status,Conv. value,Conv. value / cost,Final URL,Clicks,Impr.,CTR,Avg. CPC,Cost,Conv. rate,Conversions
+Summer Athletic Wear,Athletic Footwear,running shoes,Exact,Enabled,2450.0,3.25,https://example.com/running-shoes,342,12500,2.74%,$2.15,$735.30,8.48%,29
+Summer Athletic Wear,Athletic Footwear,running shoes women,Exact,Enabled,3560.0,3.76,https://example.com/womens-running-shoes,412,17800,2.31%,$2.30,$947.60,7.52%,31
+Summer Athletic Wear,Women's Athletic,yoga mat,Exact,Enabled,890.0,3.56,https://example.com/yoga-mats,156,8900,1.75%,$1.60,$249.60,10.26%,16
+Tech Electronics Q4,Electronics - Computers,best laptops,Broad,Enabled,8920.0,4.12,https://example.com/laptops,567,28400,2.00%,$3.45,$1956.15,5.29%,30
+Tech Electronics Q4,Photography Gear,digital camera,Broad,Paused,3240.0,2.45,https://example.com/cameras,412,22100,1.86%,$4.25,$1751.00,4.13%,17
+Tech Electronics Q4,Audio Electronics,wireless headphones,Exact,Enabled,4560.0,4.75,https://example.com/headphones,645,31200,2.07%,$1.49,$960.05,7.29%,47
+Home & Kitchen Sale,Kitchen Appliances,coffee maker,Phrase,Enabled,1580.0,2.85,https://example.com/coffee-makers,234,15600,1.50%,$1.89,$442.26,6.84%,16
+Home & Kitchen Sale,Kitchen Small Appliances,blender,Exact,Enabled,1120.0,2.67,https://example.com/blenders,267,13800,1.93%,$1.57,$419.19,5.99%,16
+Home & Kitchen Sale,Home Appliances,air purifier,Phrase,Enabled,3680.0,3.95,https://example.com/air-purifiers,387,19500,1.98%,$2.40,$928.80,6.46%,25
+Pet Care Essentials,Pet Supplies,organic dog food,Phrase,Enabled,1820.0,3.89,https://example.com/dog-food,289,11200,2.58%,$1.62,$468.18,5.88%,17
+Office Pro 2024,Office Furniture,standing desk,Broad,Enabled,6780.0,3.12,https://example.com/standing-desks,423,18900,2.24%,$5.15,$2178.45,6.15%,26
+Fitness & Nutrition,Sports Nutrition,protein powder,Phrase,Enabled,2340.0,4.28,https://example.com/protein-powder,512,24800,2.06%,$1.07,$547.84,9.77%,50
+Fitness & Nutrition,Fitness Equipment,hiking boots,Phrase,Enabled,4230.0,3.88,https://example.com/hiking-boots,356,14200,2.51%,$3.06,$1089.36,8.15%,29
+Wearable Tech Launch,Wearable Tech,smart watch,Exact,Enabled,5120.0,3.67,https://example.com/smartwatches,734,42300,1.74%,$1.90,$1394.60,5.72%,42
+Winter Collection 2024,Outdoor Apparel,winter jacket,Broad,Paused,1960.0,2.18,https://example.com/winter-jackets,298,16700,1.78%,$3.02,$899.96,4.03%,12
+Winter Collection 2024,Outdoor Footwear,hiking boots winter,Phrase,Enabled,3120.0,3.45,https://example.com/winter-hiking-boots,278,13400,2.07%,$2.85,$792.30,6.83%,19
+Gaming Gear Pro,Gaming Accessories,gaming mouse,Exact,Enabled,1450.0,4.52,https://example.com/gaming-mice,521,27600,1.89%,$0.62,$322.02,9.79%,51
+Gaming Gear Pro,Gaming Accessories,gaming keyboard,Phrase,Enabled,1890.0,4.15,https://example.com/gaming-keyboards,445,23100,1.93%,$0.78,$347.10,8.54%,38
+Health & Wellness,Health Products,vitamin supplements,Broad,Enabled,2890.0,3.34,https://example.com/vitamins,445,21400,2.08%,$1.95,$867.75,7.42%,33
+Health & Wellness,Personal Care,electric toothbrush,Phrase,Enabled,2670.0,4.21,https://example.com/toothbrushes,478,26100,1.83%,$1.33,$635.74,10.04%,48
+Fashion Accessories,Accessories,men's wallet,Broad,Enabled,980.0,3.12,https://example.com/wallets,189,9600,1.97%,$1.67,$315.63,8.47%,16
+Fashion Accessories,Travel Gear,backpack,Broad,Enabled,1780.0,2.95,https://example.com/backpacks,334,18500,1.81%,$1.81,$604.54,5.69%,19
